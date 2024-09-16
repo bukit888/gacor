@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bukit888.github.io/gacor/sitemap.xml
